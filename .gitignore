@@ -1,0 +1,67 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# R
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
+*.swp
+*~
+
+# Raw sequencing files
+data/raw_fastq/
+
+# Trimmed FASTQ
+data/trimmed_fastq/
+
+# HISAT2 index
+data/reference/index/
+
+# Alignment
+results/alignment/*.sam
+
+# BAM
+results/bam/*.bam
+results/bam/*.bam.bai
+results/bam/*.bai
+
+# FastQC archives
+results/fastqc/**/*.zip
+
+# fastp JSON
+results/fastp/*.json
+
+# MultiQC data
+results/multiqc/**/multiqc_data/
+
+# Test files
+results/figures/test.pdf
+
+.Rhistory
+.Rdata
+.RDataTemp
+.Ruserdata
+
+#################################################
+# Reference genome
+#################################################
+
+data/reference/*.fa
+data/reference/*.fasta
+data/reference/*.gtf
+data/reference/*.gff
+data/reference/*.gff3

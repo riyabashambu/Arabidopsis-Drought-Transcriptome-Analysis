@@ -1,0 +1,7 @@
+SampleID,Condition,Replicate,Read1,Read2
+SRR32771561,Control,1,SRR32771561_1.trimmed.fastq,SRR32771561_2.trimmed.fastq
+SRR32771560,Control,2,SRR32771560_1.trimmed.fastq,SRR32771560_2.trimmed.fastq
+SRR32771559,Control,3,SRR32771559_1.trimmed.fastq,SRR32771559_2.trimmed.fastq
+SRR32771552,Drought,1,SRR32771552_1.trimmed.fastq,SRR32771552_2.trimmed.fastq
+SRR32771551,Drought,2,SRR32771551_1.trimmed.fastq,SRR32771551_2.trimmed.fastq
+SRR32771550,Drought,3,SRR32771550_1.trimmed.fastq,SRR32771550_2.trimmed.fastq

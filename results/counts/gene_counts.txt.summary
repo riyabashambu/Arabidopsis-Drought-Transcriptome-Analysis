@@ -1,0 +1,15 @@
+Status	/home/riya/Arabidopsis-Drought-Transcriptome-Analysis/results/bam/SRR32771550.sorted.bam	/home/riya/Arabidopsis-Drought-Transcriptome-Analysis/results/bam/SRR32771551.sorted.bam	/home/riya/Arabidopsis-Drought-Transcriptome-Analysis/results/bam/SRR32771552.sorted.bam	/home/riya/Arabidopsis-Drought-Transcriptome-Analysis/results/bam/SRR32771559.sorted.bam	/home/riya/Arabidopsis-Drought-Transcriptome-Analysis/results/bam/SRR32771560.sorted.bam	/home/riya/Arabidopsis-Drought-Transcriptome-Analysis/results/bam/SRR32771561.sorted.bam
+Assigned	22091237	25591904	27050350	32351887	24206169	31179086
+Unassigned_Unmapped	609964	529728	667420	627523	616408	660852
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	1198642	1483698	1486735	2179550	1727982	2025465
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	237904	273468	275292	262773	197070	249312
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	739106	942362	968869	1442105	1085539	1392830
